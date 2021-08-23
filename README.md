@@ -10,7 +10,7 @@ Steps to use the script :
 
 1) Create account on https://openweathermap.org/ and a default API key shall be generated for you here https://home.openweathermap.org/api_keys
 
-2) Rename .env.example to .env and add that API key to 'API_KEY' variable.
+2) Rename .env.example to .env and add that API key generated in step1 to 'API_KEY' variable in .env file.
 
 3) Get composer : 
 
