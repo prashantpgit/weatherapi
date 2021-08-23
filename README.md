@@ -20,6 +20,9 @@ curl -sS https://getcomposer.org/installer | php
 4) Install dependencies
 ```
 php composer.phar install
-``` 
 
-5) Enjoy !! :rocket:
+``` 
+5) Visit the URL and enter city name and the weather 
+report shall be displayed.
+
+6) Enjoy !! :rocket:
