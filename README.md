@@ -17,7 +17,7 @@ curl -sS https://getcomposer.org/installer | php
 ``` 
 4) Install dependencies
 ```
-composer install
+php composer.phar install
 ``` 
 
 5) Enjoy !! :rocket:
