@@ -1,5 +1,6 @@
 # weatherapi
-Weather API is a simple script that uses Open Weather API
+
+Weather API is a simple script that shows weather report using the Open Weather API
 
 Script Requirements:
 Apache Web server
