@@ -1,7 +1,9 @@
 # weatherapi
 Weather API is a simple script that uses Open Weather API
 
-Script requires Apache Web server and PHP installed.
+Script Requirements:
+Apache Web server
+PHP
 
 Steps to use the script :
 
