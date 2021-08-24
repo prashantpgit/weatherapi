@@ -3,7 +3,7 @@
 Weather API is a simple script that shows weather report using the Open Weather API.
 
 Script Requirements:
-Apache Web server
+Apache Web server ,
 PHP
 
 Steps to use the script :
